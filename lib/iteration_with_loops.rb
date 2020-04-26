@@ -3,7 +3,7 @@ min_temps = []
 row_index = 0 
 while row_index < find_min_in_nested_arrays.count do 
   element_index = 0 
-  lowest_temp = 100
+  lowest_temp = number
 while element_index < find_min_in_nested_arrays[row_index].count do
   if find_min_in_nested_arrays[row_index][element_index} < lowest_temp
     lowest_temp = find_min_in_nested_arrays[row_index][element_index]
