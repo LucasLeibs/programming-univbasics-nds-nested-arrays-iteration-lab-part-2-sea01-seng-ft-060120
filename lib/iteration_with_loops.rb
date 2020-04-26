@@ -15,7 +15,7 @@ while row_index < src.count do
   row_index += 1
 end
  
-min_temp # => ["Sporty", "Fajita Mix", "Rosemary"]
+min_temp
  end
   # src will be an array of arrays of integers
   # Produce a new Array that contains the smallest number of each of the nested array
